@@ -5,4 +5,4 @@ meta:
     version: 18
 build:
   artifacts:
-    public/build/*: /
+    public/*: /
