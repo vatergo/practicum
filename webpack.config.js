@@ -10,7 +10,7 @@ module.exports = {
   devServer: {
     static: "./public",
     compress: true,
-    port: 9000,
+    port: 3000,
     historyApiFallback: true,
     proxy: {
       "/api": {
