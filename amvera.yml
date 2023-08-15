@@ -3,8 +3,6 @@ meta:
   toolchain:
     name: browser
     version: 18
-
 build:
-  additionalCommands: npm run build
   artifacts:
-    "public/build/*": /
+    public/build/*: /
