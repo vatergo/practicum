@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.image {
+  background-image: url(https://phonoteka.org/uploads/posts/2022-09/1663714331_19-phonoteka-org-p-oboi-matritsa-instagram-19.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  border-radius: 8px;
+  margin-top: 12px;
+}
